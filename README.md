@@ -67,4 +67,4 @@ This project implements a stack-based virtual machine that can perform arithmeti
 - pop
 - pop
 - exit
-'5+5=10->2-10=(-8)->(-8)*3=(-24)'
+###'5+5=10->2-10=(-8)->(-8)*3=(-24)'
