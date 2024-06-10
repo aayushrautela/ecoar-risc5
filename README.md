@@ -61,9 +61,9 @@ This project implements a stack-based virtual machine that can perform arithmeti
 - `too many operands`
 
 ## Usage(Example)
-- add 5 5    **5+5=10**
-- sub 2    **2-10=(-8)**
-- mul 3    **(-8)x3=(-24)**
-- pop        **-24**
-- pop    **-8**
+- **add 5 5**: `5+5=1`
+- **sub 2**:    `2-10=(-8)`
+- **mul 3**:    `(-8)x3=(-24)`
+- **pop**:        `-24`
+- **pop**:    `-8`
 - exit
